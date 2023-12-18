@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bookstore-408201",
+  "private_key_id": "a3b3d1377c5116a5e920ce4e79c667489f20e4ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCE9lXTQmvt5hh4\n72RNFffYAbOnp5o98T47oJQiiCa2YXzRgQWq961I+2tB7Jattqq2gGLwG12ZTVay\nE/UAGdt9CIrlbWsT3/Q6YBzXMQEoKWrepZ26iS2AGw/GqWlJ3CWpIoAnhq8kvKEm\nq/7vkeTTo4NYKRDiqTrmo6Z0CpRtSrkRnjDqqHnlWKr6AGkpZQD4mS0BpvaHq3ih\nwpeqt9R5AVfT9/P/VfZENsSOtKvP/vDiasN+Ws/q5KKIUlgn1FtwllqnKEIoX2+Q\nDySvziEJggjaaqJKNNgAqLDO4UWKD8QwSb/vxH58IuvE9NQoDTKjUhx5HNEIblOT\nPoia0ZPTAgMBAAECggEAFKpcyIsIT1916kX65uhFLzOEgshP9tSqAYaBv6Q9sBcS\n2VUeVmZMbo11LDfja3h6rAbkWcFHGO6mTONBLxTVwmczf1k0TVB/mxsZIHEjZuSZ\nEaXYEAgGJGUQXKY0ESDAUbtlA7+xNRqESYhuBTo9wI8neOpZD4GSAArrchm63AmJ\nw2BNr0MMks+mE5Kc8bRgl7NSkhJjGMVWAuNSU9H6xL4W93u+O0vQ/ZBX3u0B5R9L\n9mk914kyBbPthe0SL8tYy5OK+NAo1WUUlbI09+keVTNx5yqxRuw5qDC2bOJM2rMA\n9umfuk8c5KHHvQoqoPci2L5Y+1DanH0uMivBbbPzAQKBgQC6tsLtqwKfSE5Lf5h6\naBLarePlWY6Vj3IxICQ5mhriT3N1p766UXjLKIomQ2BC5a3QJnIc+S4agTHrB0Zo\naxEcK7RTGBIn4UYkUPvIamWf0SKU90+T16iXXULUxuG+A+O+fe5T3mgBRqW/9/Gq\nQLO8kY5WiAY9ARvsSuTC/TMIkwKBgQC2TVVhUWxa19hWP7q0yqMRoYSd04AL132F\nBm+KRPtHV+1k+SLqLxgfQtj3YeBtfHUw4G731F3HSOBToY2eFcs5dyO2UlZzaK2T\nju1LBvoQ+GQZfsL7GuXpKqbjFBgD2tJoeDxker76edUgK0MCN1O8V83iJh85xOBv\ncR3qkvqPwQKBgQCEzAAQMhUHXNHy+KlmRidCyXLRaMT0srWxIv8gyO5eD8w63jfV\nJKUZOZgoZrtMWTcqWG3JFaEo0MLEOsRk9+GPe7Yhc3lWS+8rXT326VWmOYSzFsLO\nkBAkt/wUge+EyhdtIPwlQoYOgkTZKGwFf0dW0t+9w7lMIkHN6eaSmKt3aQKBgQC1\nywSbmaDeLmS0DbVYWMKo8FLZOHJ2XJv1LefJEOUrzgkUKkWhFvmNIxJOD7LIO9Z5\nuTWvun0SICBkBbS9sqoIUkCwrgc762U8wsjrireQeMMJkZlK4xXmoPvvcrhID8zH\nFS/UW3tbOGdKPxoBeb7tEPpkzPNSnnvZZgoZRBzNgQKBgQCVE+x1BCj25fGvVGkO\nZ1vft13tk/Psy+ZDKYzaTcCibCLyTM4NhsqVkbpM8LR8J3Cuw36zKnizz3HKL3BQ\nn9JOHwQBgU9pknOhXEU+aibjDWbLsguaqEJNBEFayutSzX2fcSRF0ildmFgillGB\n99ILIuXooIsMt3kYkp/5BeltBA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bookstoredatabase@bookstore-408201.iam.gserviceaccount.com",
+  "client_id": "115736179818726535944",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bookstoredatabase%40bookstore-408201.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
