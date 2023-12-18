@@ -5,8 +5,9 @@ Scalability and Deployment:
 2. Efficient resource utilization for optimal performance.
 
 Database Management with Google Spanner:
-1.Utilization of Google Spanner for a globally distributed and highly available database.
-2.Efficient data storage and retrieval for a large-scale book catalog.
+
+1. Utilization of Google Spanner for a globally distributed and highly available database.
+2. Efficient data storage and retrieval for a large-scale book catalog.
 
 Technologies Used:
 1. Spring Boot MVC
