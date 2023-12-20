@@ -14,8 +14,7 @@ Technologies Used:
 2. Thymeleaf for server-side templating
 3. Google App Engine for deployment and auto-scaling
 4. Google Spanner for database management
-5. Spring Security for authentication and authorization
-6. RESTful API for seamless integration with front-end and external services
+5. RESTful API for seamless integration with front-end and external services
 
 Deployment:
 The Online Bookstore Web Application was deployed on the Google App Engine, ensuring high availability, scalability, and reliability. The Google Spanner database will handle data management efficiently, providing a robust foundation for the application.
