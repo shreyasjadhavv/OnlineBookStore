@@ -1,5 +1,7 @@
 The Online Book Store project is a modern and robust e-commerce platform developed using Spring MVC framework, a powerful and flexible Java-based framework, and deployed on the Google App Engine. This platform provides a seamless and user-friendly experience for book enthusiasts to explore, purchase, and manage their favorite reads. The database is managed by Google Spanner, ensuring scalability, high availability, and strong consistency for efficient data management.
 
+Demo Video Link: https://www.linkedin.com/posts/shreyas-jadhav-9799b6212_hello-linkedin-network-i-recently-developed-activity-7143255204568711169-4SEc?utm_source=share&utm_medium=member_desktop
+
 Scalability and Deployment:
 1. Leveraging the Google App Engine for automatic scaling based on demand.
 2. Efficient resource utilization for optimal performance.
